@@ -1,0 +1,38 @@
+!SESSION 2022-07-07 13:00:57.027 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  C:\Users\hc.ro\Desktop\MY_PROJECT\STM32F746\UI_HBC_Integer\UI_HBC_F746_Integer\STM32CubeIDE\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\hc.ro\Desktop\MY_PROJECT\STM32F746\UI_HBC_Integer\UI_HBC_F746_Integer\STM32CubeIDE\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-07 13:01:31.052
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-07 13:01:31.119
+!MESSAGE Log4j initialized with config file C:\Users\hc.ro\Desktop\MY_PROJECT\STM32F746\UI_HBC_Integer\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-07 13:01:36.302
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-07 13:01:48.325
+!MESSAGE Indexed 'STM32F746G_DISCO' (112 sources, 332 headers) in 9.68 sec: 23,701 declarations; 93,638 references; 6 unresolved inclusions; 127 syntax errors; 1,928 unresolved names (1.6%)
+!SESSION 2022-07-07 13:07:53.931 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  C:\Users\hc.ro\Desktop\MY_PROJECT\STM32F746\UI_HBC_Integer\UI_HBC_F746_Integer\STM32CubeIDE\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\hc.ro\Desktop\MY_PROJECT\STM32F746\UI_HBC_Integer\UI_HBC_F746_Integer\STM32CubeIDE\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-07 13:07:59.541
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-07 13:07:59.575
+!MESSAGE Log4j initialized with config file C:\Users\hc.ro\Desktop\MY_PROJECT\STM32F746\UI_HBC_Integer\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-07 13:08:03.350
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-07 13:08:13.214
+!MESSAGE Indexed 'STM32F746G_DISCO' (114 sources, 338 headers) in 9.66 sec: 24,829 declarations; 102,779 references; 0 unresolved inclusions; 1 syntax errors; 10 unresolved names (0.0078%)
